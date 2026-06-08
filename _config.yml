@@ -1,1 +1,23 @@
+title: "Carolina Dulcien"
+name: "Carolina Dulcien"
+description: "PhD Student in Astronomy"
 
+url: "https://TUUSUARIO.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Carolina Dulcien"
+  avatar: "/assets/images/profile.jpg"
+  bio: "PhD student studying galaxy evolution, morphology, machine learning, and large-scale structure."
+  location: "Chile"
+  email: "carolina.dulcien01@gmail.com"
+
+markdown: kramdown
+highlighter: rouge
+
+timezone: America/Santiago
